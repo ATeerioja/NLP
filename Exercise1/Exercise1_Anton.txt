@@ -1,0 +1,34 @@
+PART A
+The issue is dedicated to English documents writing. The work is aimed at analyzing linguistic peculiarities of 
+drafting legal documents. The authors have noticed that while participating at Willem C. Vis annual 
+International Commercial Arbitration moots in Vienna, their students show some difficulties in writing 
+memoranda. Some years ago we were not teaching legal writing. Visiting San Diego University we paid 
+attention to special courses taught there. Now that we organized special courses teaching legal writing, in 
+this work the authors pay attention to business documents such as contracts, legal correspondence, claims, 
+etc., considering that rights and duties must be validated by means of documents. In view of this, judicial 
+documents should be drafted correctly. We truly believe that teaching documents writing now, at university, 
+is a very important issue if we want to bring up comprehendible generation of lawyers. The work lays 
+particular emphasis on the formal business language which is referred to as officialese and differs from other 
+types of the English language, mostly due to specific characters of the functional usage that may be featured 
+in classical terms of style, predetermination and main characteristics. 
+Original text:
+Tokens: 229
+Characters: 1252
+
+
+Translated with Google Translate
+Tämä numero on omistettu englanninkielisten asiakirjojen kirjoittamiselle. Työn tarkoituksena on analysoida oikeudellisten asiakirjojen laatimisen kielellisiä erityispiirteitä. Kirjoittajat ovat huomanneet, että osallistuessaan Willem C. Visin vuosittaisiin kansainvälisiin kaupallisiin välimiesmenettelyihin Wienissä, heidän opiskelijoillaan on vaikeuksia laatia muistioita. Muutama vuosi sitten emme opettaneet oikeudellista kirjoittamista. Vieraillessamme San Diegon yliopistossa kiinnitimme huomiota siellä opetettaviin erikoiskursseihin. Nyt kun olemme järjestäneet oikeudellista kirjoittamista opettavia erityiskursseja, kirjoittajat kiinnittävät tässä työssä huomiota liiketoiminta-asiakirjoihin, kuten sopimuksiin, oikeudelliseen kirjeenvaihtoon, vaatimuksiin jne., ottaen huomioon, että oikeudet ja velvollisuudet on vahvistettava asiakirjojen avulla. Tämän vuoksi oikeudelliset asiakirjat tulisi laatia oikein. Uskomme vakaasti, että asiakirjojen kirjoittamisen opettaminen nyt yliopistossa on erittäin tärkeä asia, jos haluamme kasvattaa ymmärrettävää juristisukupolvea. Työssä painotetaan erityisesti muodollista liikekieltä, jota kutsutaan officialeseksi ja joka eroaa muista englannin kielen tyypeistä pääasiassa toiminnallisen käytön erityispiirteiden vuoksi, jotka voivat ilmetä klassisessa tyylissä, ennalta määräytymisessä ja pääpiirteissä.
+Translated text:
+Tokens: 382
+Characters: 1358
+
+Finnish to English ratio is
+1,6681222707
+
+The price of a prompt is calculated in terms of tokens.
+The more subwords there are, the more tokens are required for each prompt.
+This means more memory and compute power required which translates into increased cost for the prompt.
+
+PART B
+I did not have any problems with the exercise and the 
+process and the result is clear to me.
