@@ -1,0 +1,11 @@
+{
+  "architectures": [
+    "MLP"
+  ],
+  "dtype": "float32",
+  "hidden_size": 20,
+  "nlabels": 9,
+  "transformers_version": "5.5.4",
+  "use_cache": false,
+  "vocab_size": 15000
+}
